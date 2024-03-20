@@ -1,2 +1,2 @@
 # myportfolio
-myself information for upgrading my skills
+my information for upgrading my skills
